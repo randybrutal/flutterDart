@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hadoken/custom_icons.dart';
+import 'package:hadoken/font/custom_icons.dart';
 import '../components/scorePad.dart';
 import '../components/scoreBoard.dart';
 
